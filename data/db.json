@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "name": "Books",
+      "display_name": "books",
+      "description": "Read material",
+      "id": 3
+    },
+    {
+      "name": "Tech",
+      "display_name": "Electronics",
+      "description": "Tech products",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "category": "Tech",
+      "name": "TV",
+      "display_name": "Television",
+      "description": "flat screen tv",
+      "id": 1
+    },
+    {
+      "category": "Books",
+      "name": "Ulysses",
+      "display_name": "Ulysses soft cover",
+      "description": "Ulysses chronicles the passage of",
+      "id": 4
+    }
+  ]
+}
